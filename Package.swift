@@ -8,7 +8,7 @@ let package = Package(
   name: "CoreXLSX",
   platforms: [
     .macOS(.v10_11),
-    .iOS(.v15),
+    .iOS(.v9),
     .tvOS(.v9),
     .watchOS(.v2),
   ],
